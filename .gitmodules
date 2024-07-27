@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:jialulugangtie/exam.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:jialulugangtie/learning-cxx.git
